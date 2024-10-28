@@ -1,0 +1,41 @@
+Anesthesia
+Cardiovascular
+Community Health
+Dentistry
+Dermatology
+Diet Nutrition
+Emergency
+Endocrine
+Gastroenterologic
+Genetic
+Geriatric
+Gynecologic
+Hematologic
+Infectious
+Laboratory Science
+Midwifery
+Musculoskeletal
+Neurologic
+Nursing
+Obstetric
+Oncologic
+Optometric
+Otolaryngologic
+Pathology
+Pediatric
+Pharmacy Specialty
+Physiotherapy
+Plastic Surgery
+Podiatric
+Primary Care
+Psychiatric
+PublicHealth
+Pulmonary
+Radiography
+Renal
+Respiratory Therapy
+Rheumatologic
+Speech Pathology
+Surgical
+Toxicologic
+Urologic

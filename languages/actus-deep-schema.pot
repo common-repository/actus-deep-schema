@@ -1,0 +1,140 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: ACTUS deep schema\n"
+"POT-Creation-Date: 2023-05-17 21:42+0300\n"
+"PO-Revision-Date: 2023-05-17 21:25+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: actus-deep-schema.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: jsm/svg.js\n"
+
+#: includes/acsc-FE.php:1579
+msgid "ACTUS"
+msgstr ""
+
+#: includes/acsc-FE.php:1588
+msgid "Debug"
+msgstr ""
+
+#. translators: the plugin name.
+#: includes/acsc-updater.php:224
+#, php-format
+msgid "There is a new version of %1$s available."
+msgstr ""
+
+#: includes/acsc-updater.php:230
+msgid "Contact your network administrator to install the update."
+msgstr ""
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
+#: includes/acsc-updater.php:235
+#, php-format
+msgid "%1$sView version %2$s details%3$s."
+msgstr ""
+
+#: includes/acsc-updater.php:243
+#, php-format
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr ""
+
+#: includes/acsc-updater.php:254
+msgid "Update now."
+msgstr ""
+
+#: includes/acsc-updater.php:486
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/acsc-updater.php:486
+msgid "Error"
+msgstr ""
+
+#: includes/interface/acsc-actus.php:30
+msgid "Get the premium version"
+msgstr ""
+
+#: includes/interface/acsc-actus.php:31
+msgid "for deeper structured data features!"
+msgstr ""
+
+#: includes/interface/acsc-actus.php:38
+msgid "plugin page"
+msgstr ""
+
+#: includes/interface/actus.php:52
+msgid "Active plugins"
+msgstr ""
+
+#: includes/interface/admin-menu.php:29
+msgid "ACTUS Deep Schema"
+msgstr ""
+
+#: includes/interface/deep-schema.php:37
+msgid "created by"
+msgstr ""
+
+#: jsm/home.js:52
+msgid "Utilize a huge number of schema types to match your website content."
+msgstr ""
+
+#: jsm/home.js:75
+msgid "Schema about the website."
+msgstr ""
+
+#: jsm/home.js:83
+msgid "Schemas for business or organizations."
+msgstr ""
+
+#: jsm/home.js:91
+msgid "Schemas for the pages of this website."
+msgstr ""
+
+#: jsm/home.js:99
+msgid ""
+"By using these schemas, you can enhance the depth of your structured data."
+msgstr ""
+
+#: jsm/home.js:138
+msgid "Actus Deep Schema is enabled<br>and exporting structured data for"
+msgstr ""
+
+#: jsm/home.js:140
+msgid "Actus Deep Schema is disabled!"
+msgstr ""
+
+#: jsm/home.js:156
+msgid "For more settings click on the gear icon on the top right."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "ACTUS deep schema"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://deepschema.org/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Schema Markup Creator for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Stelios Ignatiadis"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://actus.works/"
+msgstr ""

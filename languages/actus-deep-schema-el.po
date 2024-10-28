@@ -1,0 +1,1372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ACTUS deep schema\n"
+"POT-Creation-Date: 2023-05-23 23:51+0300\n"
+"PO-Revision-Date: 2023-05-23 23:52+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: actus-deep-schema.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2;__i;__ac\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: jsm/svg.js\n"
+"X-Poedit-SearchPathExcluded-1: .yarn\n"
+"X-Poedit-SearchPathExcluded-2: js\n"
+"X-Poedit-SearchPathExcluded-3: jsm/xfields/plugins/axf-wordpress.js\n"
+"X-Poedit-SearchPathExcluded-4: jsm/xfields/axf-controls.js\n"
+
+#: forms/form-Article.js:9 forms/form-Place.js:20 forms/form-Product.js:19
+#: forms/form-business.js:10
+msgid "Type"
+msgstr "Τύπος"
+
+#: forms/form-Article.js:17
+msgid "dependencies"
+msgstr "προαπαιτούμενα"
+
+#: forms/form-Article.js:23
+msgid "proficiency level"
+msgstr "επίπεδο γνώσης"
+
+#: forms/form-Article.js:31 forms/form-AudioObject.js:35 forms/form-Book.js:22
+#: forms/form-Course.js:22 forms/form-Event.js:22 forms/form-HowTo.js:22
+#: forms/form-Place.js:28 forms/form-Product.js:36 forms/form-Recipe.js:22
+#: forms/form-Service.js:22 forms/form-SoftwareApplication.js:41
+#: forms/form-SpecialAnnouncement.js:22 forms/form-VideoObject.js:81
+#: forms/form-business.js:19 forms/form-page.js:39 forms/form-persons.js:7
+msgid "info"
+msgstr "πληροφορίες"
+
+#: forms/form-Article.js:36
+msgid "headline"
+msgstr "επικεφαλίδα"
+
+#: forms/form-Article.js:41 forms/form-AudioObject.js:58
+#: forms/form-Course.js:35 forms/form-Event.js:31 forms/form-HowTo.js:31
+#: forms/form-Place.js:39 forms/form-Recipe.js:31
+#: forms/form-SoftwareApplication.js:58 forms/form-VideoObject.js:86
+#: forms/form-audience.js:24 forms/form-business.js:62 forms/form-page.js:48
+#: forms/form-website.js:23 forms/forms-commons.js:345
+#: forms/forms-commons.js:385
+msgid "description"
+msgstr "περιγραφή"
+
+#: forms/form-Article.js:46 forms/form-Product.js:57 forms/form-Recipe.js:44
+#: forms/form-Service.js:31 forms/form-SoftwareApplication.js:30
+msgid "categories"
+msgstr "κατηγορίες"
+
+#: forms/form-Article.js:50 forms/form-Recipe.js:36
+msgid "keywords"
+msgstr ""
+
+#: forms/form-Article.js:56 forms/form-Article.js:62 forms/form-Product.js:143
+#: forms/form-Product.js:148 forms/form-Service.js:87 forms/form-Service.js:92
+#: forms/form-business.js:137 forms/form-page.js:55 forms/form-page.js:61
+#: forms/form-website.js:30 forms/form-website.js:36
+msgid "audience"
+msgstr "στόχευση"
+
+#: forms/form-Article.js:75 forms/form-page.js:128 forms/form-website.js:95
+msgid "content"
+msgstr "περιεχόμενο"
+
+#: forms/form-Article.js:80 forms/form-AudioObject.js:94 forms/form-Book.js:128
+#: forms/form-HowTo.js:36 forms/form-Recipe.js:274
+#: forms/form-SoftwareApplication.js:205 forms/form-VideoObject.js:187
+#: forms/form-page.js:133 forms/form-website.js:100
+msgid "Languages"
+msgstr "Γλώσσες"
+
+#: forms/form-Article.js:97 forms/form-page.js:150 forms/form-website.js:118
+msgid "Main Entities"
+msgstr "Κύριες Ενότητες"
+
+#: forms/form-Article.js:109 forms/form-page.js:174 forms/form-website.js:130
+msgid "About"
+msgstr ""
+
+#: forms/form-Article.js:121 forms/form-Book.js:181 forms/form-Event.js:203
+#: forms/form-Product.js:203 forms/form-Recipe.js:203 forms/form-page.js:200
+msgid "Images"
+msgstr "Εικόνες"
+
+#: forms/form-Article.js:132
+msgid "comments"
+msgstr "σχόλια"
+
+#: forms/form-Article.js:138
+msgid "include article body"
+msgstr "πλήρες κείμενο"
+
+#: forms/form-Article.js:144
+msgid "word count"
+msgstr "αριθμός λέξεων"
+
+#: forms/form-Article.js:151 forms/form-AudioObject.js:65
+#: forms/form-Product.js:161 forms/form-Recipe.js:227 forms/form-Service.js:129
+#: forms/form-SoftwareApplication.js:169 forms/form-VideoObject.js:152
+#: forms/form-page.js:245 forms/form-website.js:151
+msgid "extra"
+msgstr ""
+
+#: forms/form-Article.js:156 forms/form-AudioObject.js:82 forms/form-Book.js:41
+msgid "Authors"
+msgstr "Συντάκτες"
+
+#: forms/form-Article.js:168 forms/form-Book.js:115
+msgid "Publishers"
+msgstr "Εκδότες"
+
+#: forms/form-Article.js:185 forms/form-website.js:78
+msgid "copyright"
+msgstr ""
+
+#: forms/form-Article.js:194 forms/form-website.js:87
+msgid "year"
+msgstr "έτος"
+
+#: forms/form-Article.js:200 forms/form-AudioObject.js:76
+#: forms/form-Recipe.js:238 forms/form-SoftwareApplication.js:174
+#: forms/form-page.js:266
+msgid "published"
+msgstr "εκδόθηκε"
+
+#: forms/form-Article.js:206 forms/form-Recipe.js:244 forms/form-page.js:272
+msgid "modified"
+msgstr "τροποποιήθηκε"
+
+#: forms/form-Article.js:212
+msgid "post url"
+msgstr "url άρθρου"
+
+#: forms/form-AudioObject.js:10 forms/form-Book.js:10 forms/form-Course.js:10
+#: forms/form-Event.js:10 forms/form-HowTo.js:10 forms/form-Place.js:10
+#: forms/form-Product.js:10 forms/form-Recipe.js:10 forms/form-Service.js:10
+#: forms/form-SoftwareApplication.js:10 forms/form-SpecialAnnouncement.js:10
+#: forms/form-VideoObject.js:10
+msgid "show on page"
+msgstr "εμφάνιση στη σελίδα"
+
+#: forms/form-AudioObject.js:25
+msgid "get audio from page content"
+msgstr "ανάκτηση ηχητικών από το περιεχόμενο"
+
+#: forms/form-AudioObject.js:40 forms/form-Book.js:27 forms/form-Book.js:98
+#: forms/form-Course.js:27 forms/form-Event.js:27 forms/form-HowTo.js:27
+#: forms/form-SoftwareApplication.js:46 forms/form-VideoObject.js:57
+#: forms/form-VideoObject.js:129 forms/forms-commons.js:368
+msgid "title"
+msgstr "τίτλος"
+
+#: forms/form-AudioObject.js:44 forms/form-Book.js:31 forms/form-Book.js:154
+#: forms/form-Event.js:36 forms/form-Event.js:119 forms/form-Event.js:188
+#: forms/form-Place.js:65 forms/form-SoftwareApplication.js:140
+#: forms/form-VideoObject.js:61 forms/form-VideoObject.js:133
+#: forms/form-business.js:68 forms/form-persons.js:78
+#: forms/forms-commons.js:333 forms/forms-commons.js:372
+#: forms/forms-commons.js:457
+msgid "url"
+msgstr ""
+
+#: forms/form-AudioObject.js:48 forms/forms-commons.js:376
+msgid "encoding format"
+msgstr ""
+
+#: forms/form-AudioObject.js:53 forms/forms-commons.js:380
+msgid "bitrate"
+msgstr ""
+
+#: forms/form-AudioObject.js:71 forms/form-Book.js:36 forms/form-Course.js:61
+#: forms/form-Event.js:63 forms/form-HowTo.js:54 forms/form-Place.js:79
+#: forms/form-Product.js:190 forms/form-Recipe.js:233 forms/form-Service.js:167
+#: forms/form-SoftwareApplication.js:231 forms/form-VideoObject.js:158
+msgid "Rating"
+msgstr "Αξιολόγηση"
+
+#: forms/form-Book.js:53 forms/form-Book.js:145 forms/form-Place.js:70
+#: forms/form-business.js:84 forms/form-persons.js:70 forms/form-website.js:156
+msgid "Social & Wiki"
+msgstr ""
+
+#: forms/form-Book.js:63
+msgid "editions"
+msgstr "εκδόσεις"
+
+#: forms/form-Book.js:68
+msgid "Editions"
+msgstr "Εκδόσεις"
+
+#: forms/form-Book.js:82
+msgid "isbn"
+msgstr ""
+
+#: forms/form-Book.js:87
+msgid "date"
+msgstr "ημερομηνία"
+
+#: forms/form-Book.js:93
+msgid "edition"
+msgstr "έκδοση"
+
+#: forms/form-Book.js:103
+msgid "Editors"
+msgstr "Εκδότες"
+
+#: forms/form-Book.js:159 forms/form-VideoObject.js:71
+msgid "format"
+msgstr "μορφή"
+
+#: forms/form-Book.js:186 forms/form-Service.js:185 forms/form-business.js:396
+#: forms/form-persons.js:128
+msgid "image"
+msgstr "εικόνα"
+
+#: forms/form-Course.js:31 forms/forms-commons.js:610
+msgid "code"
+msgstr "κωδικός"
+
+#: forms/form-Course.js:40 forms/form-Service.js:52
+msgid "providers"
+msgstr "πάροχοι"
+
+#: forms/form-Course.js:52
+msgid "credential awarded"
+msgstr "πιστοποίηση"
+
+#: forms/form-Event.js:40
+msgid "status"
+msgstr "κατάσταση"
+
+#: forms/form-Event.js:48 forms/form-VideoObject.js:137
+msgid "start"
+msgstr "έναρξη"
+
+#: forms/form-Event.js:52 forms/form-VideoObject.js:142
+msgid "end"
+msgstr "λήξη"
+
+#: forms/form-Event.js:56
+msgid "previous start date"
+msgstr "προηγούμενη ημερομηνία"
+
+#: forms/form-Event.js:70
+msgid "location & persons"
+msgstr "τοποθεσίες & πρόσωπα"
+
+#: forms/form-Event.js:75 forms/form-Service.js:43 forms/form-audience.js:17
+#: forms/form-business.js:6 forms/form-business.js:98
+msgid "type"
+msgstr "τύπος"
+
+#: forms/form-Event.js:83
+msgid "physical location"
+msgstr "φυσική τοποθεσία"
+
+#: forms/form-Event.js:95 forms/form-Place.js:33 forms/form-Product.js:41
+#: forms/form-Recipe.js:27 forms/form-Service.js:27
+#: forms/form-SpecialAnnouncement.js:27 forms/form-audience.js:13
+#: forms/form-business.js:24 forms/forms-commons.js:289
+#: forms/forms-commons.js:329 forms/forms-commons.js:429
+#: forms/forms-commons.js:556 forms/forms-commons.js:601
+msgid "name"
+msgstr "όνομα"
+
+#: forms/form-Event.js:107
+msgid "virtual location"
+msgstr "εικονική τοποθεσία"
+
+#: forms/form-Event.js:126
+msgid "Organizers"
+msgstr "Διοργανωτές"
+
+#: forms/form-Event.js:138
+msgid "Performers"
+msgstr "Εμφανιζόμενοι"
+
+#: forms/form-Event.js:152
+msgid "tickets"
+msgstr "εισητήρια"
+
+#: forms/form-Event.js:157 forms/form-Product.js:107
+msgid "Prices"
+msgstr "Τιμές"
+
+#: forms/form-Event.js:165 forms/form-Product.js:115
+#: forms/form-SoftwareApplication.js:117
+msgid "availability"
+msgstr "διαθεσιμότητα"
+
+#: forms/form-Event.js:172 forms/form-Product.js:122
+#: forms/form-SoftwareApplication.js:124
+msgid "price"
+msgstr "τιμή"
+
+#: forms/form-Event.js:183 forms/form-SoftwareApplication.js:135
+msgid "valid from"
+msgstr "ισχύει από"
+
+#: forms/form-Event.js:198 forms/form-Place.js:208 forms/form-Service.js:174
+#: forms/form-business.js:385 forms/form-page.js:188
+msgid "images"
+msgstr "εικόνες"
+
+#: forms/form-HowTo.js:60 forms/form-Recipe.js:81
+msgid "yield"
+msgstr "αποτέλεσμα"
+
+#: forms/form-HowTo.js:67
+msgid "How To"
+msgstr ""
+
+#: forms/form-HowTo.js:72
+msgid "Supplies"
+msgstr "Υλικά"
+
+#: forms/form-HowTo.js:84 forms/form-HowTo.js:104
+msgid "QTY"
+msgstr "ΠΟΣ"
+
+#: forms/form-HowTo.js:92
+msgid "Tools"
+msgstr "Εργαλεία"
+
+#: forms/form-HowTo.js:112
+msgid "Steps"
+msgstr "Βήματα"
+
+#: forms/form-HowTo.js:120 forms/form-Recipe.js:105
+msgid "title..."
+msgstr "τίτλος..."
+
+#: forms/form-HowTo.js:124 forms/form-Recipe.js:109
+msgid "text..."
+msgstr "κείμενο..."
+
+#: forms/form-HowTo.js:136 forms/form-Recipe.js:120
+msgid "video..."
+msgstr ""
+
+#: forms/form-HowTo.js:143 forms/form-page.js:89
+msgid "url..."
+msgstr ""
+
+#: forms/form-HowTo.js:150
+msgid "estimated cost"
+msgstr "εκτιμώμενο κόστος"
+
+#: forms/form-HowTo.js:183 forms/form-Product.js:198 forms/form-Recipe.js:198
+#: forms/form-SoftwareApplication.js:150 forms/form-page.js:214
+msgid "media"
+msgstr ""
+
+#: forms/form-HowTo.js:188
+msgid "Final Images"
+msgstr "Τελικές Εικόνες"
+
+#: forms/form-HowTo.js:199 forms/form-Product.js:214 forms/form-Recipe.js:214
+#: forms/form-page.js:220
+msgid "Video"
+msgstr ""
+
+#: forms/form-Place.js:46
+msgid "contains"
+msgstr "περιέχει"
+
+#: forms/form-Place.js:55
+msgid "contained in"
+msgstr "περιέχεται σε"
+
+#: forms/form-Place.js:88 forms/form-Service.js:105
+#: forms/form-SpecialAnnouncement.js:48 forms/form-business.js:285
+#: forms/forms-commons.js:450
+msgid "location"
+msgstr "τοποθεσία"
+
+#: forms/form-Place.js:97 forms/form-business.js:300 forms/form-persons.js:64
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: forms/form-Place.js:103 forms/form-business.js:306
+msgid "Geographic Coordinates"
+msgstr "Γεωγραφικές Συντεταγμένες"
+
+#: forms/form-Place.js:109 forms/form-business.js:313
+msgid "latitude"
+msgstr "πλάτος"
+
+#: forms/form-Place.js:113 forms/form-business.js:317
+msgid "longitude"
+msgstr "μήκος"
+
+#: forms/form-Place.js:121 forms/form-business.js:247 forms/form-persons.js:43
+msgid "contact"
+msgstr "επικοινωνία"
+
+#: forms/form-Place.js:126 forms/form-business.js:261 forms/form-persons.js:48
+#: forms/forms-commons.js:467
+msgid "Phones"
+msgstr "Τηλέφωνα"
+
+#: forms/form-Place.js:134 forms/form-business.js:270
+msgid "Fax"
+msgstr ""
+
+#: forms/form-Place.js:142
+msgid "booking page"
+msgstr "σελίδα κρατήσεων"
+
+#: forms/form-Place.js:153 forms/form-SoftwareApplication.js:71
+msgid "features"
+msgstr "χαρακτηριστικά"
+
+#: forms/form-Place.js:158
+msgid "public access"
+msgstr "δημόσια πρόσβαση"
+
+#: forms/form-Place.js:163
+msgid "has drive through service"
+msgstr "υπηρεσία drive through"
+
+#: forms/form-Place.js:168 forms/form-business.js:151
+msgid "amenities"
+msgstr "παροχές"
+
+#: forms/form-Place.js:199 forms/form-business.js:237
+#: forms/forms-commons.js:633
+msgid "opening hours"
+msgstr "ώρες λειτουργίας"
+
+#: forms/form-Place.js:213 forms/form-Service.js:179 forms/form-business.js:390
+#: forms/forms-commons.js:419
+msgid "logo"
+msgstr "λογότυπο"
+
+#: forms/form-Place.js:219
+msgid "main image"
+msgstr "κύρια εικόνα"
+
+#: forms/form-Place.js:226
+msgid "photos"
+msgstr "φωτογραφίες"
+
+#: forms/form-Product.js:25
+msgid "type wiki"
+msgstr "τύπος-wiki"
+
+#: forms/form-Product.js:45
+msgid "model"
+msgstr "μοντέλο"
+
+#: forms/form-Product.js:49
+msgid "sku"
+msgstr ""
+
+#: forms/form-Product.js:53
+msgid "gtin"
+msgstr ""
+
+#: forms/form-Product.js:70
+msgid "manufacturer"
+msgstr "κατασκευαστής"
+
+#: forms/form-Product.js:78
+msgid "country of assembly"
+msgstr "χώρα συναρμολόγησης"
+
+#: forms/form-Product.js:83
+msgid "color"
+msgstr "χρώμα"
+
+#: forms/form-Product.js:102 forms/form-SoftwareApplication.js:104
+#: forms/form-SoftwareApplication.js:109
+msgid "pricing"
+msgstr "τιμές"
+
+#: forms/form-Product.js:133
+msgid "valid until"
+msgstr "ισχύει μέχρι"
+
+#: forms/form-Product.js:166 forms/form-Service.js:134
+#: forms/forms-commons.js:433
+msgid "slogan"
+msgstr "σλόγκαν"
+
+#: forms/form-Product.js:171 forms/form-Service.js:145
+#: forms/form-business.js:73
+msgid "Brands"
+msgstr "Εμπορικά σήματα"
+
+#: forms/form-Product.js:182 forms/form-Service.js:155
+msgid "awards"
+msgstr "βραβεύσεις"
+
+#: forms/form-Recipe.js:40
+msgid "cuisine"
+msgstr "κουζίνα"
+
+#: forms/form-Recipe.js:53
+msgid "suitable for diet"
+msgstr "κατάλληλο για δίετα"
+
+#: forms/form-Recipe.js:62
+msgid "preparation"
+msgstr "προετοιμασία"
+
+#: forms/form-Recipe.js:66
+msgid "cook time"
+msgstr "χρόνος μαγειρέματος"
+
+#: forms/form-Recipe.js:70
+msgid "total time"
+msgstr "συνολικός χρόνος"
+
+#: forms/form-Recipe.js:76
+msgid "recipe"
+msgstr "συνταγή"
+
+#: forms/form-Recipe.js:89
+msgid "ingredients"
+msgstr "συστατικά"
+
+#: forms/form-Recipe.js:97
+msgid "instructions"
+msgstr "οδηγίες"
+
+#: forms/form-Recipe.js:130
+msgid "nutrition"
+msgstr "θρεπτικά στοιχεία"
+
+#: forms/form-Recipe.js:136
+msgid "serving size"
+msgstr "μέγεθος μερίδας"
+
+#: forms/form-Recipe.js:140
+msgid "calories"
+msgstr "θερμίδες"
+
+#: forms/form-Recipe.js:144
+msgid "carbo hydrate"
+msgstr "υδατάνθρακες"
+
+#: forms/form-Recipe.js:145 forms/form-Recipe.js:155 forms/form-Recipe.js:160
+#: forms/form-Recipe.js:165 forms/form-Recipe.js:170 forms/form-Recipe.js:180
+#: forms/form-Recipe.js:185 forms/form-Recipe.js:190
+msgid "grams..."
+msgstr "γραμμάρια..."
+
+#: forms/form-Recipe.js:149
+msgid "cholesterol"
+msgstr "χοληστερόλη"
+
+#: forms/form-Recipe.js:150 forms/form-Recipe.js:175
+msgid "milligrams..."
+msgstr "μιλιγκραμς..."
+
+#: forms/form-Recipe.js:154
+msgid "fat"
+msgstr "λιπαρά"
+
+#: forms/form-Recipe.js:159
+msgid "fiber"
+msgstr "ίνες"
+
+#: forms/form-Recipe.js:164
+msgid "protein"
+msgstr "πρωτεΐνες"
+
+#: forms/form-Recipe.js:169
+msgid "saturated fat"
+msgstr "κορεσμένα λίπη"
+
+#: forms/form-Recipe.js:174
+msgid "sodium"
+msgstr "νάτριο"
+
+#: forms/form-Recipe.js:179
+msgid "sugar"
+msgstr "ζάχαρη"
+
+#: forms/form-Recipe.js:184
+msgid "trans fat"
+msgstr "υδρογονωμένα λίπη"
+
+#: forms/form-Recipe.js:189
+msgid "unsaturated fat"
+msgstr "ακόρεστα λιπαρά"
+
+#: forms/form-Recipe.js:250 forms/form-SoftwareApplication.js:192
+#: forms/form-VideoObject.js:163 forms/forms-commons.js:350
+msgid "authors"
+msgstr "συντάκτες"
+
+#: forms/form-Recipe.js:262 forms/form-SoftwareApplication.js:180
+#: forms/form-VideoObject.js:175
+msgid "publishers"
+msgstr "εκδότες"
+
+#: forms/form-Service.js:37
+msgid "service output"
+msgstr "προϊόν υπηρεσίας"
+
+#: forms/form-Service.js:63
+msgid "brokers"
+msgstr "διαμεσολαβητές"
+
+#: forms/form-Service.js:110
+msgid "available channel"
+msgstr "διαθέσιμο κανάλι"
+
+#: forms/form-Service.js:119 forms/form-business.js:290
+msgid "area served"
+msgstr "περιοχές εξυπηρέτησης"
+
+#: forms/form-Service.js:139
+msgid "hours available"
+msgstr "ώρες διαθεσιμότητας"
+
+#: forms/form-Service.js:161
+msgid "terms of service"
+msgstr "όροι χρήσης"
+
+#: forms/form-SoftwareApplication.js:20
+msgid "application type"
+msgstr "τύπος εφαρμογής"
+
+#: forms/form-SoftwareApplication.js:50
+msgid "version"
+msgstr "έκδοση"
+
+#: forms/form-SoftwareApplication.js:54
+msgid "suite"
+msgstr ""
+
+#: forms/form-SoftwareApplication.js:63
+msgid "operating system"
+msgstr "λειτουργικό σύστημα"
+
+#: forms/form-SoftwareApplication.js:77
+msgid "add ons"
+msgstr "πρόσθετα"
+
+#: forms/form-SoftwareApplication.js:88
+msgid "download url"
+msgstr ""
+
+#: forms/form-SoftwareApplication.js:94
+msgid "release notes"
+msgstr "σημειώσεις έκδοσης"
+
+#: forms/form-SoftwareApplication.js:155
+msgid "screenshots"
+msgstr ""
+
+#: forms/form-SpecialAnnouncement.js:31
+msgid "date posted"
+msgstr "ημερομηνία"
+
+#: forms/form-SpecialAnnouncement.js:36
+msgid "expires"
+msgstr "λήξη"
+
+#: forms/form-SpecialAnnouncement.js:41
+msgid "text"
+msgstr "κείμενο"
+
+#: forms/form-SpecialAnnouncement.js:53
+msgid "announcement location"
+msgstr "τοποθεσία ανακοίνωσης"
+
+#: forms/form-SpecialAnnouncement.js:62
+msgid "spatial coverage"
+msgstr "εδαφική κάλυψη"
+
+#: forms/form-SpecialAnnouncement.js:72
+msgid "special info"
+msgstr "ειδικές πληροφορίες"
+
+#: forms/form-SpecialAnnouncement.js:77
+msgid "prevention"
+msgstr "πρόληψη"
+
+#: forms/form-SpecialAnnouncement.js:81
+msgid "spread statistics"
+msgstr "στατιστικές εξάπλωσης"
+
+#: forms/form-SpecialAnnouncement.js:85
+msgid "getting tested"
+msgstr ""
+
+#: forms/form-SpecialAnnouncement.js:89
+msgid "government benefits"
+msgstr "κρατικές παροχές"
+
+#: forms/form-SpecialAnnouncement.js:93
+msgid "news updates & guidelines"
+msgstr "κατευθυντήριες γραμμές"
+
+#: forms/form-SpecialAnnouncement.js:97
+msgid "public transport closures"
+msgstr "κλείσιμο συγκοινωνιών"
+
+#: forms/form-SpecialAnnouncement.js:101
+msgid "quarantine guidelines"
+msgstr "οδηγίες καραντίνας"
+
+#: forms/form-SpecialAnnouncement.js:105
+msgid "school closures"
+msgstr "κλείσιμο σχολείων"
+
+#: forms/form-SpecialAnnouncement.js:109
+msgid "travel bans"
+msgstr "ταξιδιωτικές οδηγίες"
+
+#: forms/form-VideoObject.js:20
+msgid "Get video from..."
+msgstr "Ανάκτηση video από..."
+
+#: forms/form-VideoObject.js:26
+msgid "page content"
+msgstr "περιεχόμενο σελίδας"
+
+#: forms/form-VideoObject.js:32
+msgid "YouTube"
+msgstr ""
+
+#: forms/form-VideoObject.js:42
+msgid "video"
+msgstr ""
+
+#: forms/form-VideoObject.js:49
+msgid "upload thumbnail"
+msgstr ""
+
+#: forms/form-VideoObject.js:66 forms/forms-commons.js:337
+msgid "uploaded"
+msgstr "ανέβηκε"
+
+#: forms/form-VideoObject.js:92
+msgid "views"
+msgstr ""
+
+#: forms/form-VideoObject.js:111
+msgid "chapters"
+msgstr "κεφάλαια"
+
+#: forms/form-VideoObject.js:116
+msgid "parts"
+msgstr "τμήματα"
+
+#: forms/form-audience.js:28
+msgid "geographic area"
+msgstr "γεωγραφική περιοχή"
+
+#: forms/form-audience.js:51
+msgid "# of employees"
+msgstr "αρ. εργαζομένων"
+
+#: forms/form-audience.js:59
+msgid "yearly revenue"
+msgstr "ετήσια έσοδα"
+
+#: forms/form-audience.js:68
+msgid "suggested gender"
+msgstr "προτεινόμενο φύλο"
+
+#: forms/form-audience.js:80
+msgid "required gender"
+msgstr "απαιτούμενο φύλο"
+
+#: forms/form-audience.js:93
+msgid "suggested age"
+msgstr "προτεινόμενη ηλικία"
+
+#: forms/form-audience.js:101
+msgid "required age"
+msgstr "απαιτούμενη ηλικία"
+
+#: forms/form-audience.js:112 forms/form-audience.js:180
+msgid "min"
+msgstr ""
+
+#: forms/form-audience.js:117 forms/form-audience.js:187
+msgid "max"
+msgstr ""
+
+#: forms/form-audience.js:125
+msgid "health condition"
+msgstr "κατάσταση υγείας"
+
+#: forms/form-audience.js:138
+msgid "diagnosis"
+msgstr "διάγνωση"
+
+#: forms/form-audience.js:147
+msgid "drugs"
+msgstr "φάρμακα"
+
+#: forms/form-audience.js:162
+msgid "educational role"
+msgstr "εκπαιδευτικός ρόλος"
+
+#: forms/form-audience.js:173
+msgid "children age"
+msgstr "ηλικία παιδιών"
+
+#: forms/form-business.js:29
+msgid "legal name"
+msgstr "επωνυμία"
+
+#: forms/form-business.js:34
+msgid "vat ID"
+msgstr ""
+
+#: forms/form-business.js:39
+msgid "tax ID"
+msgstr "ΑΦΜ"
+
+#: forms/form-business.js:44
+msgid "member of"
+msgstr "μέλος του"
+
+#: forms/form-business.js:53
+msgid "parent org."
+msgstr "μητρικός οργανισμός"
+
+#: forms/form-business.js:105
+msgid "price range"
+msgstr "εύρος τιμών"
+
+#: forms/form-business.js:114
+msgid "serves cuisine"
+msgstr "κουζίνα"
+
+#: forms/form-business.js:120
+msgid "menu"
+msgstr ""
+
+#: forms/form-business.js:126
+msgid "accepts reservations"
+msgstr "δέχεται κρατήσεις"
+
+#: forms/form-business.js:190
+msgid "IATA Code"
+msgstr ""
+
+#: forms/form-business.js:198
+msgid "Specialties"
+msgstr "Ειδικότητες"
+
+#: forms/form-business.js:217
+msgid "health plan network id"
+msgstr ""
+
+#: forms/form-business.js:225
+msgid "sport"
+msgstr "άθλημα"
+
+#: forms/form-business.js:252 forms/form-persons.js:56
+msgid "Emails"
+msgstr ""
+
+#: forms/form-business.js:325
+msgid "persons"
+msgstr "πρόσωπα"
+
+#: forms/form-business.js:331
+msgid "Founders"
+msgstr "Ιδρυτές"
+
+#: forms/form-business.js:342
+msgid "Employees"
+msgstr "Εργαζόμενοι"
+
+#: forms/form-business.js:355
+msgid "departments"
+msgstr "τμήματα"
+
+#: forms/form-business.js:361
+msgid "Departments"
+msgstr "Τμήματα"
+
+#: forms/form-business.js:372
+msgid "sub-organizations"
+msgstr "υποοργανισμοί"
+
+#: forms/form-page.js:10
+msgid "select page"
+msgstr "επιλέξτε σελίδα"
+
+#: forms/form-page.js:19
+msgid "page type"
+msgstr "τύπος σελίδας"
+
+#: forms/form-page.js:29
+msgid "medical audience"
+msgstr "ιατρικό κοινό"
+
+#: forms/form-page.js:44
+msgid "Title"
+msgstr "Τίτλος"
+
+#: forms/form-page.js:74 forms/form-page.js:84
+msgid "collection"
+msgstr "συλλογή"
+
+#: forms/form-page.js:97
+msgid "faq"
+msgstr ""
+
+#: forms/form-page.js:106
+msgid "Frequently Asked Questions"
+msgstr "Συχνές Ερωτήσεις"
+
+#: forms/form-page.js:114
+msgid "question"
+msgstr "ερώτηση"
+
+#: forms/form-page.js:193
+msgid "Primary Image"
+msgstr "Κύρια Εικόνα"
+
+#: forms/form-page.js:231
+msgid "Audio"
+msgstr "Ήχος"
+
+#: forms/form-page.js:250
+msgid "author"
+msgstr "συντάκτης"
+
+#: forms/form-page.js:258
+msgid "is part of"
+msgstr "τμήμα του"
+
+#: forms/form-page.js:278
+msgid "page url"
+msgstr "url σελίδας"
+
+#: forms/form-persons.js:16
+msgid "prefix"
+msgstr ""
+
+#: forms/form-persons.js:17
+msgid "eg. Dr"
+msgstr "πχ Δρ"
+
+#: forms/form-persons.js:22
+msgid "fullname"
+msgstr "όνομα"
+
+#: forms/form-persons.js:26
+msgid "suffix"
+msgstr ""
+
+#: forms/form-persons.js:27
+msgid "eg. M.D."
+msgstr "πχ M.D."
+
+#: forms/form-persons.js:33
+msgid "gender"
+msgstr "φύλο"
+
+#: forms/form-persons.js:59 forms/forms-commons.js:561
+msgid "email address"
+msgstr "διεύθυνση email"
+
+#: forms/form-persons.js:85
+msgid "work"
+msgstr "εργασία"
+
+#: forms/form-persons.js:90
+msgid "works for"
+msgstr "εργάζεται για"
+
+#: forms/form-persons.js:102
+msgid "affiliation"
+msgstr "μέλος"
+
+#: forms/form-persons.js:113
+msgid "job title"
+msgstr "τίτλος εργασίας"
+
+#: forms/form-persons.js:116
+msgid "complete job title"
+msgstr "πλήρης τίτλος εργασίας"
+
+#: forms/form-persons.js:123
+msgid "more"
+msgstr "περισσότερα"
+
+#: forms/form-persons.js:129
+msgid "image url..."
+msgstr "url εικόνας..."
+
+#: forms/form-persons.js:140
+msgid "main entity of page"
+msgstr "κύρια οντότητα της σελίδας"
+
+#: forms/form-persons.js:149
+msgid "subject of page"
+msgstr "θέμα της σελίδας"
+
+#: forms/form-website.js:11
+msgid "site name"
+msgstr "όνομα ιστότοπου"
+
+#: forms/form-website.js:15
+msgid "alternate name"
+msgstr "εναλλακτικό όνομα"
+
+#: forms/form-website.js:19
+msgid "site url"
+msgstr "url ιστότοπου"
+
+#: forms/form-website.js:50
+msgid "credits"
+msgstr ""
+
+#: forms/form-website.js:55
+msgid "creator"
+msgstr "δημιουργός"
+
+#: forms/form-website.js:64
+msgid "publisher"
+msgstr "εκδότης"
+
+#: forms/form-website.js:142
+msgid "Website Image"
+msgstr "Εικόνα Ιστότοπου"
+
+#: forms/form-website.js:168
+msgid "search bar"
+msgstr "πλαίσιο αναζήτησης"
+
+#: forms/form-website.js:173
+msgid "search url"
+msgstr "url αναζήτησης"
+
+#: forms/forms-commons.js:110
+msgid "hours"
+msgstr "ώρες"
+
+#: forms/forms-commons.js:116
+msgid "minutes"
+msgstr "λεπτά"
+
+#: forms/forms-commons.js:122
+msgid "seconds"
+msgstr "δευτερόλεπτα"
+
+#: forms/forms-commons.js:293
+msgid "caption"
+msgstr "λεζάντα"
+
+#: forms/forms-commons.js:301
+msgid "thumb"
+msgstr ""
+
+#: forms/forms-commons.js:305
+msgid "width"
+msgstr "πλάτος"
+
+#: forms/forms-commons.js:310
+msgid "height"
+msgstr "ύψος"
+
+#: forms/forms-commons.js:392
+msgid "street address"
+msgstr "οδός"
+
+#: forms/forms-commons.js:396
+msgid "postal code"
+msgstr "Τ.Κ."
+
+#: forms/forms-commons.js:401
+msgid "city"
+msgstr "πόλη"
+
+#: forms/forms-commons.js:406
+msgid "region"
+msgstr "περιοχή"
+
+#: forms/forms-commons.js:411
+msgid "country"
+msgstr "χώρα"
+
+#: forms/forms-commons.js:442
+msgid "answer"
+msgstr "απάντηση"
+
+#: forms/forms-commons.js:475
+msgid "available language"
+msgstr "διαθέσιμη γλώσσα"
+
+#: forms/forms-commons.js:494
+msgid "average"
+msgstr "μέσος όρος"
+
+#: forms/forms-commons.js:499
+msgid "best"
+msgstr "καλύτερη"
+
+#: forms/forms-commons.js:504
+msgid "worst"
+msgstr "χειρότερη"
+
+#: forms/forms-commons.js:509
+msgid "count"
+msgstr "αριθμός"
+
+#: forms/forms-commons.js:547
+msgid "Contact Points"
+msgstr "Σημεία Επικοινωνίας"
+
+#: forms/forms-commons.js:560
+msgid "email"
+msgstr ""
+
+#: forms/forms-commons.js:565
+msgid "telephone"
+msgstr "τηλέφωνο"
+
+#: forms/forms-commons.js:566
+msgid "+1(XXX) XXX-XXXX"
+msgstr ""
+
+#: forms/forms-commons.js:570
+msgid "fax"
+msgstr ""
+
+#: forms/forms-commons.js:614
+msgid "system"
+msgstr "σύστημα"
+
+#: forms/forms-commons.js:647
+msgid "opens"
+msgstr "ανοίγει"
+
+#: forms/forms-commons.js:652
+msgid "closes"
+msgstr "κλείνει"
+
+#: forms/forms-commons.js:675
+msgid "Place"
+msgstr ""
+
+#: includes/acsc-FE.php:1585
+msgid "ACTUS"
+msgstr ""
+
+#: includes/acsc-FE.php:1594
+msgid "Debug"
+msgstr ""
+
+#: includes/acsc-admin-li.php:73 includes/interface/license.php:62
+msgid "Activate License"
+msgstr "Ενεργοποίηση Άδειας"
+
+#: includes/acsc-admin-li.php:81 includes/interface/license.php:68
+msgid "Deactivate License"
+msgstr "Απενεργοποίηση Άδειας"
+
+#: includes/acsc-admin-li.php:279 includes/acsc-admin-li.php:368
+#: includes/acsc-admin-li.php:416
+msgid "An error occurred, please try again."
+msgstr "Έγινε κάποιο λάθος, παρακαλώ ξαναπροσπαθήστε."
+
+#. translators: the license key expiration date
+#: includes/acsc-admin-li.php:387
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "Η άδειά σας έχει λήξει στις %s."
+
+#: includes/acsc-admin-li.php:394
+msgid "Your license key has been disabled."
+msgstr "Η άδειά σας έχει απενεργοποιηθεί."
+
+#: includes/acsc-admin-li.php:398
+msgid "Invalid license."
+msgstr "Άκυρο κλειδί."
+
+#: includes/acsc-admin-li.php:403
+msgid "Your license is not active for this URL."
+msgstr "Η άδειά σας δεν είναι ενεργή γι αυτό το URL."
+
+#. translators: the plugin name
+#: includes/acsc-admin-li.php:408
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: includes/acsc-admin-li.php:412
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#. translators: the plugin name.
+#: includes/acsc-updater.php:224
+#, php-format
+msgid "There is a new version of %1$s available."
+msgstr ""
+
+#: includes/acsc-updater.php:230
+msgid "Contact your network administrator to install the update."
+msgstr ""
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
+#: includes/acsc-updater.php:235
+#, php-format
+msgid "%1$sView version %2$s details%3$s."
+msgstr ""
+
+#: includes/acsc-updater.php:243
+#, php-format
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr ""
+
+#: includes/acsc-updater.php:254
+msgid "Update now."
+msgstr "Ενημέρωση."
+
+#: includes/acsc-updater.php:486
+msgid "You do not have permission to install plugin updates"
+msgstr "Δεν έχετε άδεια να κάνετε ενημέρωση του plugin."
+
+#: includes/acsc-updater.php:486
+msgid "Error"
+msgstr ""
+
+#: includes/interface/acsc-actus.php:31
+msgid "plugin page"
+msgstr "σελίδα plugin"
+
+#: includes/interface/acsc-actus.php:36
+msgid "license"
+msgstr "άδεια"
+
+#: includes/interface/actus.php:52
+msgid "Active plugins"
+msgstr "Ενεργά plugins"
+
+#: includes/interface/admin-menu.php:29
+msgid "ACTUS Deep Schema Premium"
+msgstr ""
+
+#: includes/interface/deep-schema.php:48
+msgid "LICENSE needed"
+msgstr "απαιτείται ΑΔΕΙΑ"
+
+#: includes/interface/deep-schema.php:50
+msgid "You need an active license to use the premium version of this plugin."
+msgstr ""
+"Χρειαζόσαστε ένα ενεργό κλειδί για να χρησιμοποιήσετε την premium έκδοση."
+
+#: includes/interface/deep-schema.php:53
+msgid "If you have a license click here to activate it."
+msgstr "Εάν έχετε άδεια κάνετε κλικ εδώ για να την ενεργοποιήσετε."
+
+#: includes/interface/deep-schema.php:69
+msgid "created by"
+msgstr ""
+
+#: jsm/home.js:52
+msgid "Utilize a huge number of schema types to match your website content."
+msgstr ""
+"Αξιοποιήστε ένα πλήθος τύπων schema για να αντιστοιχίσετε το περιεχόμενό σας."
+
+#: jsm/home.js:70
+msgid "Schema about the website."
+msgstr "Schema για τον ιστότοπο."
+
+#: jsm/home.js:71
+msgid "Targeted audience schemas."
+msgstr "Schemas για στόχευση κοινού."
+
+#: jsm/home.js:72
+msgid "Schemas for business or organizations."
+msgstr "Schemas για επιχειρήσεις ή οργανισμούς."
+
+#: jsm/home.js:73
+msgid "Schemas for persons."
+msgstr "Schemas για πρόσωπα."
+
+#: jsm/home.js:74
+msgid "Schemas for the pages of this website."
+msgstr "Schemas για τις σελίδες του ιστότοπού σας."
+
+#: jsm/home.js:75
+msgid "Schemas for the posts of this website."
+msgstr "Schemas για τα posts του ιστότοπού σας."
+
+#: jsm/home.js:76
+msgid ""
+"By using these schemas, you can enhance the depth of your structured data."
+msgstr ""
+"Χρησιμοποιώντας αυτά τα schemas, ενισχύετε το βάθος των structured data."
+
+#: jsm/home.js:149
+msgid "Actus Deep Schema is enabled<br>and exporting structured data for"
+msgstr "Το Actus Deep Schema είναι ενεργό<br>και εξάγει structured data για το"
+
+#: jsm/home.js:151
+msgid "Actus Deep Schema is disabled!"
+msgstr "Το Actus Deep Schema είναι απενεργοποιημένο!"
+
+#: jsm/home.js:156
+msgid "You can disable schemas exported by other plugins."
+msgstr "Μπορείτε να απενεργοποιήσετε τα schemas που δημιουργούν άλλα plugins."
+
+#: jsm/home.js:158
+msgid "Actus Deep Schema is blocking schemas generated by other plugins."
+msgstr ""
+"To Actus Deep Schema μπλοκάρει τα schemas που δημιουργούν άλλα plugins."
+
+#: jsm/home.js:167
+msgid "For more settings click on the gear icon on the top right."
+msgstr "Για περισσότερες ρυθμίσεις κάνετε κλικ στο γρανάζι επάνω δεξιά."
+
+#: jsm/index.js:306
+msgid "This schema is available only on PREMIUM versions."
+msgstr "Αυτό το schema είναι διαθέσιμο μόνο στις PREMIUM εκδόσεις."
+
+#: jsm/index.js:309
+msgid "This Schema is not valid. Fill in the required fields."
+msgstr "Αυτό το schema δεν είναι έγκυρο. Συμπληρώστε τα απαραίτητα πεδία."
+
+#. Plugin Name of the plugin/theme
+msgid "ACTUS deep schema Premium"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://deepschema.org/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Schema Markup Creator for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ACTUS anima"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://actus.works/"
+msgstr ""
+
+#~ msgid "Stelios Ignatiadis"
+#~ msgstr "Στέλιος Ιγνατιάδης"
+
+#~ msgid "Get the premium version"
+#~ msgstr "Αποκτήστε την premium έκδοση"
+
+#~ msgid "for deeper structured data features!"
+#~ msgstr "για περισσότερο βάθος στα structure data!"
